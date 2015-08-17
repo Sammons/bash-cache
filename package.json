@@ -1,0 +1,30 @@
+{
+  "name": "bash-cache",
+  "version": "0.0.1",
+  "description": "bash cache helps you remember how you use unix commands",
+  "keywords": [
+    "bash-cache",
+    "cache"
+  ],
+  "homepage": "https://github.com/Sammons/bash-cache",
+  "author": {
+    "name": "Ben Sammons",
+    "email": "ben@sammons.io",
+    "url": "https://github.com/Sammons/"
+  },
+  "main": "./index",
+  "bin": {
+    "bash-cache": "./cli.js",
+    "cache": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sammons/bash-cache.git"
+  },
+  "dependencies": {
+    "optimist": "~0.3.5",
+    "osenv": "^0.1.3",
+    "path": "^0.11.14"
+  },
+  "preferGlobal": true
+}
