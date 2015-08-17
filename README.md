@@ -1,7 +1,9 @@
 # bash-cache
 
+bash-cache allows us to store those complex usages of commands... that wondrous regex, or massively complex usage of awk. 
+just save it.
+
 install with npm `npm install -g bash-cache`
-Annotations of specific usages of unix commands
 
 Anywhere `bash-cache` is used below, `cache` would work as well.
 
