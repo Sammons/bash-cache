@@ -1,7 +1,9 @@
 # bash-cache
+
+install with npm `npm install -g bash-cache`
 Annotations of specific usages of unix commands
 
-Anywhere bash-cache is used below, cache would work as well.
+Anywhere `bash-cache` is used below, `cache` would work as well.
 
 ##Save an annotation
 
