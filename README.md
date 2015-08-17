@@ -5,6 +5,14 @@ just save it.
 
 install with npm `npm install -g bash-cache`
 
+##Usages
+
+```
+bash-cache [-c] <command> -s <text in quotes> # save
+bash-cache [-c] <command> -d                  # delete all
+bash-cache [-c] <command>                     # display
+```
+
 Anywhere `bash-cache` is used below, `cache` would work as well.
 
 ##Save an annotation
